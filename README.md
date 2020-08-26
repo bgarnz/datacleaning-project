@@ -1,14 +1,16 @@
-# datacleaning-project
-Project for Data Cleaning course
+# Welcome to my Data Cleaning course project!
+This is the readme. Below are answers to questions you were going to ask about this.
 
-# How many scripts are there?
+## How many scripts are there?
 There is only one script made for simplicity's sake, titled run_analysis.R. 
 
-# How do I get the data created by this script?
+## How do I get the data created by this script?
 Just run the run_analysis.R script, then use the following line of code to read the data into R:
-```data <- read.table("tidyset.txt", header = TRUE)
+```
+data <- read.table("tidyset.txt", header = TRUE)
+```
 
-# What happens in the code?
+## What happens in the code?
 
 The code downloads the original data from UC Irvine's website, unzips the data, then reads each file into a table. The various datasets are combined into one set that is more simple both for readability and to comply with tidy data principles. More details on why these choices were made can be found in the codebook. 
 
