@@ -1,0 +1,68 @@
+The identifying number of the subject in question.
+The current activity of a subject.
+X value mean of body accelerometer time domain.
+Y value mean of body accelerometer time domain.
+Z value mean of body accelerometer time domain.
+X value standard deviation of body accelerometer time domain.
+Y value standard deviation of body accelerometer time domain.
+Z value standard deviation of body accelerometer time domain.
+X value mean of gravity accelerometer time domain.
+Y value mean of gravity accelerometer time domain.
+Z value mean of gravity accelerometer time domain.
+X value standard deviation of gravity accelerometer time domain.
+Y value standard deviation of gravity accelerometer time domain.
+Z value standard deviation of gravity accelerometer time domain.
+X value mean of body accelerometer jerk time domain.
+Y value mean of body accelerometer jerk time domain.
+Z value mean of body accelerometer jerk time domain.
+X value standard deviation of body accelerometer jerk time domain.
+Y value standard deviation of body accelerometer jerk time domain.
+Z value standard deviation of body accelerometer jerk time domain.
+X value mean of body gyroscope time domain.
+Y value mean of body gyroscope time domain.
+Z value mean of body gyroscope time domain.
+X value standard deviation of body gyroscope time domain.
+Y value standard deviation of body gyroscope time domain.
+Z value standard deviation of body gyroscope time domain.
+X value mean of body gyroscope jerk time domain.
+Y value mean of body gyroscope jerk time domain.
+Z value mean of body gyroscope jerk time domain.
+X value standard deviation of body gyroscope jerk time domain.
+Y value standard deviation of body gyroscope jerk time domain.
+Z value standard deviation of body gyroscope jerk time domain.
+Magnitude mean of body accelerometer time domain.
+Magnitude standard deviation of body accelerometer time domain.
+Magnitude mean of gravity accelerometer time domain.
+Magnitude standard deviation of gravity accelerometer time domain.
+Magnitude mean of body accelerometer jerk time domain.
+Magnitude standard deviation of body accelerometer jerk time domain.
+Magnitude mean of body gyroscope time domain.
+Magnitude standard deviation of body gyroscope time domain.
+Magnitude mean of body gyroscope jerk time domain.
+Magnitude standard deviation of body gyroscope jerk time domain.
+X value mean of body accelerometer frequency domain.
+Y value mean of body accelerometer frequency domain.
+Z value mean of body accelerometer frequency domain.
+X value standard deviation of body accelerometer frequency domain.
+Y value standard deviation of body accelerometer frequency domain.
+Z value standard deviation of body accelerometer frequency domain.
+X value mean of body accelerometer jerk frequency domain.
+Y value mean of body accelerometer jerk frequency domain.
+Z value mean of body accelerometer jerk frequency domain.
+X value standard deviation of body accelerometer jerk frequency domain.
+Y value standard deviation of body accelerometer jerk frequency domain.
+Z value standard deviation of body accelerometer jerk frequency domain.
+X value mean of body gyroscope frequency domain.
+Y value mean of body gyroscope frequency domain.
+Z value mean of body gyroscope frequency domain.
+X value standard deviation of body gyroscope frequency domain.
+Y value standard deviation of body gyroscope frequency domain.
+Z value standard deviation of body gyroscope frequency domain.
+Magnitude mean of body accelerometer frequency domain.
+Magnitude standard deviation of body accelerometer frequency domain.
+Magnitude mean of body accelerometer jerk frequency domain.
+Magnitude standard deviation of body accelerometer jerk frequency domain.
+Magnitude mean of body gyroscope frequency domain.
+Magnitude standard deviation of body gyroscope frequency domain.
+Magnitude mean of body gyroscope jerk frequency domain.
+Magnitude standard deviation of body gyroscope jerk frequency domain.
