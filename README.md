@@ -5,7 +5,7 @@ This is the readme. Below are answers to questions you were going to ask about t
 There is only one script made for simplicity's sake, titled run_analysis.R. 
 
 ## How do I get the data created by this script?
-Just run the run_analysis.R script, then use the following line of code to read the data into R:
+Just run the run_analysis() function, then use the following line of code to read the data into R:
 ```
 data <- read.table("tidyset.txt", header = TRUE)
 ```
